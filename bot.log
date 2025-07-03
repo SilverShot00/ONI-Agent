@@ -1,0 +1,249 @@
+2025-07-03 10:24:21,700 - __main__ - ERROR - DISCORD_TOKEN environment variable is required
+2025-07-03 10:26:46,613 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 10:26:46,613 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 10:26:46,613 - services.database - INFO - Database service initialized (in-memory)
+2025-07-03 10:26:46,614 - services.database - INFO - Database service initialized (in-memory)
+2025-07-03 10:26:46,615 - __main__ - INFO - Starting Discord bot...
+2025-07-03 10:26:46,615 - __main__ - INFO - Starting Discord bot...
+2025-07-03 10:26:46,615 - discord.client - INFO - logging in using static token
+2025-07-03 10:26:46,615 - discord.client - INFO - logging in using static token
+2025-07-03 10:26:47,224 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7d95a3bf95b2951928703cd692b2babd).
+2025-07-03 10:26:47,310 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b924a761b0e9b531b3b3b7de45c2251e).
+2025-07-03 10:26:49,249 - bot - INFO - ONI Agent#0394 has connected to Discord!
+2025-07-03 10:26:49,249 - bot - INFO - Bot is in 2 guilds
+2025-07-03 10:26:49,314 - bot - INFO - ONI Agent#0394 has connected to Discord!
+2025-07-03 10:26:49,315 - bot - INFO - Bot is in 2 guilds
+2025-07-03 10:27:31,287 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 10:27:31,287 - services.database - INFO - Database service initialized (in-memory)
+2025-07-03 10:27:31,292 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 10:27:31,292 - services.database - INFO - Database service initialized (in-memory)
+2025-07-03 10:27:31,293 - __main__ - INFO - Starting Discord bot...
+2025-07-03 10:27:31,293 - discord.client - INFO - logging in using static token
+2025-07-03 10:27:31,293 - __main__ - INFO - Starting Discord bot...
+2025-07-03 10:27:31,294 - discord.client - INFO - logging in using static token
+2025-07-03 10:27:31,972 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4bf1043ae0ff6818729cf61929eee671).
+2025-07-03 10:27:31,988 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c2954638d69ca1da25475a9ec2519468).
+2025-07-03 10:27:33,978 - bot - INFO - ONI Agent#0394 has connected to Discord!
+2025-07-03 10:27:33,978 - bot - INFO - Bot is in 2 guilds
+2025-07-03 10:27:34,004 - bot - INFO - ONI Agent#0394 has connected to Discord!
+2025-07-03 10:27:34,005 - bot - INFO - Bot is in 2 guilds
+2025-07-03 10:29:05,775 - commands.owner - INFO - Bot status changed to: Playing Halo Reach
+2025-07-03 10:29:05,802 - commands.owner - INFO - Bot status changed to: Playing Halo Reach
+2025-07-03 10:29:22,474 - commands.owner - INFO - Bot status changed to: Halo Reach
+2025-07-03 10:29:22,564 - commands.owner - INFO - Bot status changed to: Halo Reach
+2025-07-03 10:30:14,316 - services.twitch - INFO - Successfully obtained Twitch access token
+2025-07-03 10:30:14,322 - services.twitch - INFO - Successfully obtained Twitch access token
+2025-07-03 10:30:14,414 - services.database - INFO - Created guild entry for 1284927363842314370
+2025-07-03 10:30:14,414 - services.database - INFO - Added streamer lovablehaloaddiction to guild 1284927363842314370
+2025-07-03 10:30:14,428 - services.database - INFO - Created guild entry for 1284927363842314370
+2025-07-03 10:30:14,428 - services.database - INFO - Added streamer lovablehaloaddiction to guild 1284927363842314370
+2025-07-03 10:30:14,660 - commands.admin - INFO - Added streamer lovablehaloaddiction to guild 1284927363842314370
+2025-07-03 10:30:14,873 - commands.admin - INFO - Added streamer lovablehaloaddiction to guild 1284927363842314370
+2025-07-03 10:30:34,228 - services.database - INFO - Set notification channel 1284929386050752533 for guild 1284927363842314370
+2025-07-03 10:30:34,228 - services.database - INFO - Set notification channel 1284929386050752533 for guild 1284927363842314370
+2025-07-03 10:30:34,408 - commands.admin - INFO - Set notification channel to 1284929386050752533 for guild 1284927363842314370
+2025-07-03 10:30:34,513 - commands.admin - INFO - Set notification channel to 1284929386050752533 for guild 1284927363842314370
+2025-07-03 10:30:56,298 - commands.owner - INFO - Bot shutdown requested by owner litterally_a239
+2025-07-03 10:30:56,349 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f5de0f9c790>
+2025-07-03 10:30:56,528 - commands.owner - INFO - Bot shutdown requested by owner litterally_a239
+2025-07-03 10:30:56,579 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7fc3f549cb50>
+2025-07-03 10:34:00,876 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 10:34:00,877 - services.database - INFO - Database service initialized (in-memory)
+2025-07-03 10:34:00,878 - __main__ - INFO - Starting Discord bot...
+2025-07-03 10:34:00,878 - discord.client - INFO - logging in using static token
+2025-07-03 10:34:01,525 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c7c2091fece93c0920fa6b782e22f8f7).
+2025-07-03 10:34:03,529 - bot - INFO - ONI Agent#0394 has connected to Discord!
+2025-07-03 10:34:03,529 - bot - INFO - Bot is in 2 guilds
+2025-07-03 10:35:53,026 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 10:35:53,026 - services.mongodb - INFO - MongoDB service initialized with URL: mongodb://localhost:27017
+2025-07-03 10:35:53,027 - __main__ - INFO - Starting Discord bot...
+2025-07-03 10:35:53,027 - discord.client - INFO - logging in using static token
+2025-07-03 10:35:53,545 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b9be652c7a2590ea974d0440624e3f71).
+2025-07-03 10:35:55,550 - bot - INFO - ONI Agent#0394 has connected to Discord!
+2025-07-03 10:35:55,550 - bot - INFO - Bot is in 2 guilds
+2025-07-03 10:36:25,640 - services.mongodb - ERROR - Failed to connect to MongoDB: localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 68665d0b1ec7c600d84c091f, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-07-03 10:36:55,684 - services.mongodb - ERROR - Error getting all guilds: localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 68665d0b1ec7c600d84c091f, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-07-03 10:38:09,612 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 10:38:09,612 - services.mongodb - INFO - MongoDB service initialized with URL: mongodb://localhost:27017
+2025-07-03 10:38:09,613 - services.database - INFO - Database service initialized (in-memory)
+2025-07-03 10:38:09,614 - __main__ - INFO - Starting Discord bot...
+2025-07-03 10:38:09,614 - discord.client - INFO - logging in using static token
+2025-07-03 10:38:10,248 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5db06558aa6893b33c58a4a00b97955f).
+2025-07-03 10:38:12,256 - bot - INFO - ONI Agent#0394 has connected to Discord!
+2025-07-03 10:38:12,256 - bot - INFO - Bot is in 2 guilds
+2025-07-03 10:38:42,306 - services.mongodb - ERROR - Failed to connect to MongoDB: localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 68665d94d9a70529cb12117b, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [Errno 111] Connection refused (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2025-07-03 10:38:42,306 - services.database_wrapper - INFO - Using in-memory database
+2025-07-03 10:47:38,666 - services.twitch - INFO - Successfully obtained Twitch access token
+2025-07-03 10:47:38,762 - services.database - INFO - Created guild entry for 1284927363842314370
+2025-07-03 10:47:38,762 - services.database - INFO - Added streamer lovablehaloaddiction to guild 1284927363842314370
+2025-07-03 10:47:38,932 - commands.admin - INFO - Added streamer lovablehaloaddiction to guild 1284927363842314370
+2025-07-03 10:47:48,031 - commands.admin - INFO - Set notification channel to 1284929386050752533 for guild 1284927363842314370
+2025-07-03 10:50:09,863 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 10:50:09,864 - services.mongodb - INFO - MongoDB service initialized with URL: mongodb+srv://TheSilent:FmzW1sMd@343.ovlkhum.mongodb.net/?retryWrites=true&w=majority&appName=343
+2025-07-03 10:50:09,864 - services.database - INFO - Database service initialized (in-memory)
+2025-07-03 10:50:09,865 - __main__ - INFO - Starting Discord bot...
+2025-07-03 10:50:09,865 - discord.client - INFO - logging in using static token
+2025-07-03 10:50:10,468 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: feeff9e2e7866f2fd023afb57383a0a2).
+2025-07-03 10:50:12,476 - bot - INFO - ONI Agent#0394 has connected to Discord!
+2025-07-03 10:50:12,476 - bot - INFO - Bot is in 2 guilds
+2025-07-03 10:50:14,052 - services.mongodb - INFO - Successfully connected to MongoDB
+2025-07-03 10:50:14,052 - services.database_wrapper - INFO - Using MongoDB database
+2025-07-03 10:50:38,988 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 10:50:38,989 - services.mongodb - INFO - MongoDB service initialized with URL: mongodb+srv://TheSilent:FmzW1sMd@343.ovlkhum.mongodb.net/?retryWrites=true&w=majority&appName=343
+2025-07-03 10:50:38,989 - services.database - INFO - Database service initialized (in-memory)
+2025-07-03 10:50:38,990 - __main__ - INFO - Starting Discord bot...
+2025-07-03 10:50:38,990 - discord.client - INFO - logging in using static token
+2025-07-03 10:50:39,540 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 620fa44e62744afdcce45948cb1c2408).
+2025-07-03 10:50:41,547 - bot - INFO - ONI Agent#0394 has connected to Discord!
+2025-07-03 10:50:41,547 - bot - INFO - Bot is in 2 guilds
+2025-07-03 10:50:42,872 - services.mongodb - INFO - Successfully connected to MongoDB
+2025-07-03 10:50:42,872 - services.database_wrapper - INFO - Using MongoDB database
+2025-07-03 10:51:53,274 - services.twitch - INFO - Successfully obtained Twitch access token
+2025-07-03 10:51:53,653 - services.mongodb - INFO - Created guild entry for 1284927363842314370
+2025-07-03 10:51:53,995 - services.mongodb - INFO - Added streamer lovablehaloaddiction to guild 1284927363842314370
+2025-07-03 10:51:54,177 - commands.admin - INFO - Added streamer lovablehaloaddiction to guild 1284927363842314370
+2025-07-03 10:52:13,418 - services.mongodb - INFO - Set notification channel 1284929386050752533 for guild 1284927363842314370
+2025-07-03 10:52:13,625 - commands.admin - INFO - Set notification channel to 1284929386050752533 for guild 1284927363842314370
+2025-07-03 10:53:40,309 - commands.admin - ERROR - Error setting custom message: 'coroutine' object has no attribute 'get'
+2025-07-03 10:53:58,722 - commands.admin - ERROR - Error setting custom message: 'coroutine' object has no attribute 'get'
+2025-07-03 10:54:36,598 - commands.admin - ERROR - Error sending test notification: 'coroutine' object has no attribute 'get'
+2025-07-03 10:54:45,299 - commands.owner - INFO - Bot status changed to: Halo
+2025-07-03 10:55:10,189 - commands.owner - INFO - Bot username changed from ONI Agent to ONI Agent
+2025-07-03 10:55:27,424 - commands.owner - INFO - Bot username changed from ONI Agent to 343 Guilty Spark
+2025-07-03 10:55:44,689 - commands.owner - INFO - Bot username changed from 343 Guilty Spark to ONI Agent
+2025-07-03 10:58:26,476 - commands.owner - INFO - Bot avatar updated successfully
+2025-07-03 10:59:03,342 - commands.owner - INFO - Bot shutdown requested by owner litterally_a239
+2025-07-03 10:59:03,854 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f9cd5634590>
+2025-07-03 10:59:10,727 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 10:59:10,727 - services.mongodb - INFO - MongoDB service initialized with URL: mongodb+srv://TheSilent:FmzW1sMd@343.ovlkhum.mongodb.net/?retryWrites=true&w=majority&appName=343
+2025-07-03 10:59:10,727 - services.database - INFO - Database service initialized (in-memory)
+2025-07-03 10:59:10,729 - __main__ - INFO - Starting Discord bot...
+2025-07-03 10:59:10,729 - discord.client - INFO - logging in using static token
+2025-07-03 10:59:11,349 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c83f411fa89addb2691ff7caecf504dd).
+2025-07-03 10:59:13,355 - bot - INFO - ONI Agent#0394 has connected to Discord!
+2025-07-03 10:59:13,355 - bot - INFO - Bot is in 2 guilds
+2025-07-03 10:59:14,785 - services.mongodb - INFO - Successfully connected to MongoDB
+2025-07-03 10:59:14,786 - services.database_wrapper - INFO - Using MongoDB database
+2025-07-03 10:59:15,389 - services.twitch - INFO - Successfully obtained Twitch access token
+2025-07-03 10:59:32,427 - commands.owner - INFO - Bot status changed to: Playing Halo
+2025-07-03 10:59:43,377 - commands.owner - INFO - Bot status changed to: Halo: Reach
+2025-07-03 11:00:13,766 - commands.admin - ERROR - Error sending test notification: 'coroutine' object has no attribute 'get'
+2025-07-03 11:00:23,765 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f907694fa50>
+2025-07-03 11:00:30,965 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 11:00:30,965 - services.mongodb - INFO - MongoDB service initialized with URL: mongodb+srv://TheSilent:FmzW1sMd@343.ovlkhum.mongodb.net/?retryWrites=true&w=majority&appName=343
+2025-07-03 11:00:30,965 - services.database - INFO - Database service initialized (in-memory)
+2025-07-03 11:00:30,966 - __main__ - INFO - Starting Discord bot...
+2025-07-03 11:00:30,966 - discord.client - INFO - logging in using static token
+2025-07-03 11:00:31,739 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 47df27d58be3ec09f2863b2cde436d2a).
+2025-07-03 11:00:33,744 - bot - INFO - ONI Agent#0394 has connected to Discord!
+2025-07-03 11:00:33,745 - bot - INFO - Bot is in 2 guilds
+2025-07-03 11:00:35,033 - services.mongodb - INFO - Successfully connected to MongoDB
+2025-07-03 11:00:35,033 - services.database_wrapper - INFO - Using MongoDB database
+2025-07-03 11:00:35,699 - services.twitch - INFO - Successfully obtained Twitch access token
+2025-07-03 11:00:43,483 - commands.admin - ERROR - Error sending test notification: 'coroutine' object has no attribute 'get'
+2025-07-03 11:05:19,927 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 11:05:19,927 - services.mongodb - INFO - MongoDB service initialized with URL: mongodb+srv://TheSilent:FmzW1sMd@343.ovlkhum.mongodb.net/?retryWrites=true&w=majority&appName=343
+2025-07-03 11:05:19,927 - services.database - INFO - Database service initialized (in-memory)
+2025-07-03 11:05:19,928 - __main__ - INFO - Starting Discord bot...
+2025-07-03 11:05:19,928 - discord.client - INFO - logging in using static token
+2025-07-03 11:05:20,725 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 046ce4c459dffedd017764e22a88556a).
+2025-07-03 11:05:22,730 - bot - INFO - ONI Agent#0394 has connected to Discord!
+2025-07-03 11:05:22,731 - bot - INFO - Bot is in 2 guilds
+2025-07-03 11:05:24,036 - services.mongodb - INFO - Successfully connected to MongoDB
+2025-07-03 11:05:24,036 - services.database_wrapper - INFO - Using MongoDB database
+2025-07-03 11:05:24,652 - services.twitch - INFO - Successfully obtained Twitch access token
+2025-07-03 11:06:06,558 - commands.admin - INFO - Sent test notification for lovablehaloaddiction in guild 1284927363842314370
+2025-07-03 11:13:08,418 - commands.owner - INFO - Bot status changed to: Halo Reach
+2025-07-03 11:17:04,385 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 11:17:04,387 - services.mongodb - INFO - MongoDB service initialized with URL: mongodb+srv://TheSilent:FmzW1sMd@343.ovlkhum.mongodb.net/?retryWrites=true&w=majority&appName=343
+2025-07-03 11:17:04,387 - services.database - INFO - Database service initialized (in-memory)
+2025-07-03 11:17:04,388 - __main__ - INFO - Starting Discord bot...
+2025-07-03 11:17:04,388 - discord.client - INFO - logging in using static token
+2025-07-03 11:17:05,024 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8b9ea10c7ea1d43f3c65e6538c63884f).
+2025-07-03 11:17:07,029 - bot - INFO - ONI Agent#0394 has connected to Discord!
+2025-07-03 11:17:07,029 - bot - INFO - Bot is in 2 guilds
+2025-07-03 11:17:08,404 - services.mongodb - INFO - Successfully connected to MongoDB
+2025-07-03 11:17:08,404 - services.database_wrapper - INFO - Using MongoDB database
+2025-07-03 11:17:09,013 - services.twitch - INFO - Successfully obtained Twitch access token
+2025-07-03 11:17:52,023 - commands.admin - INFO - Set custom message for lovablehaloaddiction in guild 1284927363842314370
+2025-07-03 11:18:29,559 - commands.admin - INFO - Sent test notification for lovablehaloaddiction in guild 1284927363842314370
+2025-07-03 11:18:55,135 - commands.owner - INFO - Bot shutdown requested by owner litterally_a239
+2025-07-03 11:18:55,682 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7efde4f07d90>
+2025-07-03 11:19:06,951 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 11:19:06,951 - services.mongodb - INFO - MongoDB service initialized with URL: mongodb+srv://TheSilent:FmzW1sMd@343.ovlkhum.mongodb.net/?retryWrites=true&w=majority&appName=343
+2025-07-03 11:19:06,951 - services.database - INFO - Database service initialized (in-memory)
+2025-07-03 11:19:06,952 - __main__ - INFO - Starting Discord bot...
+2025-07-03 11:19:06,952 - discord.client - INFO - logging in using static token
+2025-07-03 11:19:07,557 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 11390334abb2e3655190b269d88609da).
+2025-07-03 11:19:09,587 - bot - INFO - ONI Agent#0394 has connected to Discord!
+2025-07-03 11:19:09,587 - bot - INFO - Bot is in 2 guilds
+2025-07-03 11:19:10,949 - services.mongodb - INFO - Successfully connected to MongoDB
+2025-07-03 11:19:10,949 - services.database_wrapper - INFO - Using MongoDB database
+2025-07-03 11:19:11,542 - services.twitch - INFO - Successfully obtained Twitch access token
+2025-07-03 11:19:45,423 - commands.admin - INFO - Sent test notification for lovablehaloaddiction in guild 1284927363842314370
+2025-07-03 11:21:50,257 - services.mongodb - INFO - Added streamer dearkeita to guild 1284927363842314370
+2025-07-03 11:21:50,452 - commands.admin - INFO - Added streamer dearkeita to guild 1284927363842314370
+2025-07-03 11:22:07,690 - commands.admin - INFO - Set custom message for dearKeita in guild 1284927363842314370
+2025-07-03 11:22:53,067 - commands.owner - INFO - Bot shutdown requested by owner litterally_a239
+2025-07-03 11:22:53,548 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7fd71c3bbad0>
+2025-07-03 11:23:00,282 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 11:23:00,284 - services.mongodb - INFO - MongoDB service initialized with URL: mongodb+srv://TheSilent:FmzW1sMd@343.ovlkhum.mongodb.net/?retryWrites=true&w=majority&appName=343
+2025-07-03 11:23:00,284 - services.database - INFO - Database service initialized (in-memory)
+2025-07-03 11:23:00,286 - __main__ - INFO - Starting Discord bot...
+2025-07-03 11:23:00,286 - discord.client - INFO - logging in using static token
+2025-07-03 11:23:01,340 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 03da2888c0c8f9553917a4d2476ef6cc).
+2025-07-03 11:23:03,344 - bot - INFO - ONI Agent#0394 has connected to Discord!
+2025-07-03 11:23:03,345 - bot - INFO - Bot is in 2 guilds
+2025-07-03 11:23:04,762 - services.mongodb - INFO - Successfully connected to MongoDB
+2025-07-03 11:23:04,764 - services.database_wrapper - INFO - Using MongoDB database
+2025-07-03 11:23:05,357 - services.twitch - INFO - Successfully obtained Twitch access token
+2025-07-03 11:23:05,731 - bot - INFO - Sent live notification for dearkeita in guild 1284927363842314370
+2025-07-03 11:24:03,481 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 03da2888c0c8f9553917a4d2476ef6cc.
+2025-07-03 11:31:06,799 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 11:31:06,800 - services.mongodb - INFO - MongoDB service initialized with URL: mongodb+srv://TheSilent:FmzW1sMd@343.ovlkhum.mongodb.net/?retryWrites=true&w=majority&appName=343
+2025-07-03 11:31:06,800 - services.database - INFO - Database service initialized (in-memory)
+2025-07-03 11:31:06,801 - __main__ - INFO - Starting Discord bot...
+2025-07-03 11:31:06,801 - discord.client - INFO - logging in using static token
+2025-07-03 11:31:07,401 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7e4e8c53ee68f44676e7c0aabca17127).
+2025-07-03 11:31:09,405 - bot - INFO - ONI Agent#0394 has connected to Discord!
+2025-07-03 11:31:09,406 - bot - INFO - Bot is in 2 guilds
+2025-07-03 11:31:10,710 - services.mongodb - INFO - Successfully connected to MongoDB
+2025-07-03 11:31:10,710 - services.database_wrapper - INFO - Using MongoDB database
+2025-07-03 11:31:11,352 - services.twitch - INFO - Successfully obtained Twitch access token
+2025-07-03 11:31:11,868 - bot - INFO - Sent live notification for dearkeita in guild 1284927363842314370
+2025-07-03 11:33:10,849 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 11:33:10,849 - services.mongodb - INFO - MongoDB service initialized with URL: mongodb+srv://TheSilent:FmzW1sMd@343.ovlkhum.mongodb.net/?retryWrites=true&w=majority&appName=343
+2025-07-03 11:33:10,849 - services.database - INFO - Database service initialized (in-memory)
+2025-07-03 11:33:10,850 - __main__ - INFO - Starting Discord bot...
+2025-07-03 11:33:10,850 - discord.client - INFO - logging in using static token
+2025-07-03 11:33:11,458 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7005852511b19b3d89640178ee5ec50e).
+2025-07-03 11:33:13,462 - bot - INFO - ONI Agent#0394 has connected to Discord!
+2025-07-03 11:33:13,463 - bot - INFO - Bot is in 2 guilds
+2025-07-03 11:33:14,767 - services.mongodb - INFO - Successfully connected to MongoDB
+2025-07-03 11:33:14,768 - services.database_wrapper - INFO - Using MongoDB database
+2025-07-03 11:33:15,357 - services.twitch - INFO - Successfully obtained Twitch access token
+2025-07-03 11:33:15,761 - bot - INFO - Sent live notification for dearkeita in guild 1284927363842314370
+2025-07-03 11:34:16,956 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 7005852511b19b3d89640178ee5ec50e.
+2025-07-03 11:36:26,659 - commands.admin - INFO - Sent test notification for lovablehaloaddiction in guild 1284927363842314370
+2025-07-03 11:36:36,211 - commands.owner - INFO - Bot status changed to: Halo: Reach
+2025-07-03 11:37:16,645 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 11:37:16,646 - services.mongodb - INFO - MongoDB service initialized with URL: mongodb+srv://TheSilent:FmzW1sMd@343.ovlkhum.mongodb.net/?retryWrites=true&w=majority&appName=343
+2025-07-03 11:37:16,646 - services.database - INFO - Database service initialized (in-memory)
+2025-07-03 11:37:16,647 - __main__ - INFO - Starting Discord bot...
+2025-07-03 11:37:16,647 - discord.client - INFO - logging in using static token
+2025-07-03 11:37:17,579 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b6ab07497b89ad51664ffb5bea77da2e).
+2025-07-03 11:37:19,593 - bot - INFO - ONI Agent#0394 has connected to Discord!
+2025-07-03 11:37:19,593 - bot - INFO - Bot is in 2 guilds
+2025-07-03 11:37:20,988 - services.mongodb - INFO - Successfully connected to MongoDB
+2025-07-03 11:37:20,988 - services.database_wrapper - INFO - Using MongoDB database
+2025-07-03 11:37:21,596 - services.twitch - INFO - Successfully obtained Twitch access token
+2025-07-03 11:37:22,009 - bot - INFO - Sent live notification for dearkeita in guild 1284927363842314370
+2025-07-03 11:39:08,489 - services.mongodb - INFO - Set custom message for dearkeita in guild 1284927363842314370
+2025-07-03 11:39:08,679 - commands.admin - INFO - Set custom message for dearkeita in guild 1284927363842314370
+2025-07-03 11:39:34,371 - commands.admin - INFO - Sent test notification for dearkeita in guild 1284927363842314370
