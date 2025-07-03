@@ -41,13 +41,19 @@ async def main():
             logger.error("OWNER_ID environment variable is required")
             return
         
-        # Initialize and run the bot
+        # Initialize bot instance
         bot = TwitchMonitorBot(
             discord_token=discord_token,
             twitch_client_id=twitch_client_id,
             twitch_client_secret=twitch_client_secret,
             owner_id=owner_id
         )
+
+        # Check if bot has already started (simple flag)
+        if hasattr(bot, 'has_started') and bot.has_started:
+            logger.warning("Bot already running, exiting duplicate instance.")
+            return
+        bot.has_started = True
         
         logger.info("Starting Discord bot...")
         await bot.run()
@@ -58,5 +64,5 @@ async def main():
         logger.error(f"Fatal error: {e}")
         raise
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     asyncio.run(main())
