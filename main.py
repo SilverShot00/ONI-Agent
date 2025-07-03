@@ -6,6 +6,8 @@ Initializes and runs the Discord bot with Twitch monitoring capabilities.
 import asyncio
 import logging
 import os
+import socket
+import sys
 from bot import TwitchMonitorBot
 
 # Configure logging
@@ -20,8 +22,21 @@ logging.basicConfig(
 
 logger = logging.getLogger(__name__)
 
+def is_already_running(port=12345):
+    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    try:
+        s.bind(("127.0.0.1", port))
+        s.listen(1)
+        return False, s
+    except OSError:
+        return True, None
+
 async def main():
-    """Main entry point for the bot"""
+    running, lock_socket = is_already_running()
+    if running:
+        logger.warning("Bot instance already running. Exiting.")
+        sys.exit()
+
     try:
         # Get required tokens from environment variables
         discord_token = os.getenv('DISCORD_TOKEN')
@@ -48,12 +63,6 @@ async def main():
             twitch_client_secret=twitch_client_secret,
             owner_id=owner_id
         )
-
-        # Check if bot has already started (simple flag)
-        if hasattr(bot, 'has_started') and bot.has_started:
-            logger.warning("Bot already running, exiting duplicate instance.")
-            return
-        bot.has_started = True
         
         logger.info("Starting Discord bot...")
         await bot.run()
@@ -63,6 +72,9 @@ async def main():
     except Exception as e:
         logger.error(f"Fatal error: {e}")
         raise
+    finally:
+        if lock_socket:
+            lock_socket.close()
 
 if __name__ == '__main__':
     asyncio.run(main())
